@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+PowerBI+Project!)](https://git.io/typing-svg)
 
 ### 🚀 About the Project:
-- 🔭 Title **NEW STORE BUSINESS REPORT OF 2021**
-- 🌱 Tools **Power BI**
+- 🔭 Title: **NEW STORE BUSINESS REPORT OF 2021**
+- 🌱 Tools: **Power BI**
 - 💬 What I want to show? **Data Analysis, Data Visualization**
-- 📫 Reach me at **duongttt98fu@gmail.com**
+- 📫 Reach me at:  **duongttt98fu@gmail.com**
 
 
 
