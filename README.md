@@ -19,5 +19,5 @@
 
 
 ### 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ThuyDuongTran-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/thuy-duong-tran-63b9a7242)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-WendyTran-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/thuy-duong-tran-63b9a7242)
 [![My CV](https://img.shields.io/badge/Twitter-YourHandle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
